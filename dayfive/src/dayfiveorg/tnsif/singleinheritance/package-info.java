@@ -1,0 +1,1 @@
+package dayfiveorg.tnsif.singleinheritance;
